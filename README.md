@@ -23,7 +23,7 @@
   
 ![EinsteinDG README Generator](./src/readme-generator.gif)
   
-🎥 The full movie file showing functionality of the application can be found [here](./src/readme-generator-movie.webm)  
+🎥 The full movie file showing functionality of the application can be found [here](./src/readme-generator-movie.mp4)  
   
 ## User Story
   
