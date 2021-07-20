@@ -3,14 +3,8 @@
    
   
 <p align="center">
-    <img src="https://img.shields.io/github/repo-size/jpd61/README-generator" />
     <img src="https://img.shields.io/github/languages/top/jpd61/README-generator"  />
     <img src="https://img.shields.io/github/issues/jpd61/README-generator" />
-    <img src="https://img.shields.io/github/last-commit/jpd61/README-generator" >
-    <a href="https://twitter.com/jpdewoody">
-        <img alt="Twitter: jpdewoody" src="https://img.shields.io/twitter/follow/jpdewoody.svg?style=social" target="_blank" />
-    </a>
-</p>
   
 <p align="center">
     <img src="https://img.shields.io/badge/Javascript-yellow" />
@@ -27,9 +21,9 @@
   
 💻 Below is the gif showing the functionality of the application:
   
-![DeWoody README Generator](./src/dewoody-readme-generator.gif)
+![EinsteinDG README Generator](./src/readme-generator.gif)
   
-🎥 The full movie file showing functionality of the application can be found [here](./src/dewody-readme-generator-movie.webm)  
+🎥 The full movie file showing functionality of the application can be found [here](./src/readme-generator-movie.webm)  
   
 ## User Story
   
@@ -84,9 +78,9 @@ Run the following command at th root of your project and answer the prompted que
 `node index.js`
 
 ## Contributing
-:octocat: [Joseph DeWoody](https://github.com/jpd61)
+:octocat: [EinsteinDG](https://github.com/EinsteinDG)
 
 ## Questions
-✉️ Contact me with any questions: [email](mailto:jpd@dewoodyoil.com) , [GitHub](https://github.com/jpd61)<br />
+✉️ Contact me with any questions: [email](enty84@gmail.com) , [GitHub](https://github.com/EinsteinDG)<br />
 
     
